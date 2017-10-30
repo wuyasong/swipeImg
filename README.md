@@ -2,10 +2,15 @@
 手机端swipe组件
 
 > 版本0.1：
+
 	支持图片滑动功能，大量absolute，translate3d属性未优化
+
 > 版本0.2：
+
 	支持图片滑动功能，优化大量absolute，translate3d引起的内存消耗问题
+
 > 版本0.3：
+
 	支持图片滑动功能，优化大量absolute，translate3d引起的内存消耗问题，支持图片异步加载功能
 
 使用说明：
